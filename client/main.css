@@ -2,3 +2,16 @@
 body {
     font-family: sans-serif;
 }
+
+p {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.comments {
+    padding: 15px;
+}
+
+.new-comment-input {
+    width: 500px;
+}
